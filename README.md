@@ -38,6 +38,13 @@ deep-link, tap and swipe.
 - **JARVIS AI** — desktop assistant, Tauri v2 + React + Rust. Selected for the
   AWS Idea Launcher × HKSTP Ideation Programme, Cohort AWS26-04, June 2026.
   Closed source.
+- **[Dream Record](https://dream-record.hillmanchan.com/)** — AI dream journal
+  with voice recording, dream analysis, weekly reports and streak tracking.
+  Live on the web; iOS build in App Store review.
+- **[hillmanchan.com](https://hillmanchan.com)** — portfolio plus nine playable
+  apps served from one React build on per-game subdomains, including an
+  unbeatable Connect 4 (bitboard negamax, α-β pruning, transposition tables,
+  opening book) and an interactive 28-topic system design course.
 
 ## Teaching
 
