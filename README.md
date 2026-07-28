@@ -15,8 +15,9 @@
 ### Selected work
 
 - **[Scene](https://github.com/ChiFungHillmanChan/macbook-resizer)** — native macOS window manager, 43+ stars and 500+ downloads
-- **[Convoy](https://github.com/ChiFungHillmanChan/convoy)** — local coordination for parallel AI coding agents
-- **[Mobile App MCP](https://github.com/ChiFungHillmanChan/mobile-app-mcp)** — control iOS Simulators from an AI agent
+- **[Prompt Hunter](https://github.com/ChiFungHillmanChan/prompt-hunter)** — retro RPG where players battle AI monsters through coding challenges
+- **[Kavex](https://github.com/ChiFungHillmanChan/kavex)** — safety guardrails that block dangerous AI-agent commands and verify changes
+- **[Telegram Finance Tracker](https://github.com/ChiFungHillmanChan/telegram-bot-finance-tracker)** — AI-powered UK spending tracker with receipt scanning and budget alerts
 
 ### GitHub, at a glance
 
